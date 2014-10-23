@@ -1,0 +1,5 @@
+{
+    "key": "dev-key",
+    "secret": "dev-secret",
+    "bucket": "dev-bucket"
+}

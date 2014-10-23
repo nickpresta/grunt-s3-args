@@ -1,0 +1,5 @@
+{
+    "key": "prod-key",
+    "secret": "prod-secret",
+    "bucket": "prod-bucket"
+}
